@@ -1,0 +1,7 @@
+We just published our lcal git repo
+to remote Github.com respository
+Gew things happened:
+1. It automatially created new rEMOTE Repo
+under your Github.com
+2.Made the connection with your local git repo
+3.Added all commits to remote repo
